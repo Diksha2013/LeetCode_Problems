@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
