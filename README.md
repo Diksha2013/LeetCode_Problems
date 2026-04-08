@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1207-unique-number-of-occurrences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1207-unique-number-of-occurrences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
