@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0912-sort-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
