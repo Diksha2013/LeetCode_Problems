@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
