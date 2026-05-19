@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
