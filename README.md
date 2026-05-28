@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0912-sort-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [3843-first-element-with-unique-frequency](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Sorting
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Quickselect
