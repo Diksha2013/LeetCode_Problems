@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Union-Find
