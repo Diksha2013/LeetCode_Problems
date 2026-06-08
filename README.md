@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0917-reverse-only-letters](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
+| [3110-score-of-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
