@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
