@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3046-split-the-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3046-split-the-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [3110-score-of-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3110-score-of-a-string) |
 ## Simulation
