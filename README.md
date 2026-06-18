@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
