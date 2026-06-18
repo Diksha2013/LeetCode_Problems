@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1446-consecutive-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3110-score-of-a-string) |
