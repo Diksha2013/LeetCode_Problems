@@ -1,23 +1,15 @@
 class Solution {
     public int numRabbits(int[] answers) {
-        Arrays.sort(answers);
-        int ans = answers[0]+1;
-        int count = 1;
-        for(int i = 1; i<answers.length;i++){
-            if(answers[i]!=0 && answers[i] == answers[i-1]){
-                count++;
-                if(answers[i]+2 == count){
-                    count = 1;
-                }
-            }else{
-                count = 1;
-            }
-            if(answers[i]!=0 && count == 1){
-                ans += answers[i]+1;
-            }
-            if(answers[i]==0){
-                ans++;
-            }
+        int ans = 0;
+        HashMap<Integer,Integer> hm = new HashMap<>();
+        for(int i = 0;i<answers.length;i++){
+            hm.put(answers[i],hm.getOrDefault(answers[i],0)+1);
+        }
+        for(Integer key : hm.keySet()){
+            int keyValue = key + 1;
+            int count = hm.get(key);
+            int group = (count + keyValue - 1) / keyValue;
+            ans += group * keyValue;
         }
         return ans;
     }
