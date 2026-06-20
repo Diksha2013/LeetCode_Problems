@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
