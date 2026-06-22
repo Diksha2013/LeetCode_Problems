@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0781-rabbits-in-forest) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
