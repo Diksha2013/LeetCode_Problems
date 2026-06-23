@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3024-type-of-triangle](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3046-split-the-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3843-first-element-with-unique-frequency) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3024-type-of-triangle](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3024-type-of-triangle](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
