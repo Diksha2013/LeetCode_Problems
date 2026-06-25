@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0766-toeplitz-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -180,12 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -292,5 +297,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
