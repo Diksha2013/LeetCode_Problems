@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
