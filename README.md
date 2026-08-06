@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0509-fibonacci-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
