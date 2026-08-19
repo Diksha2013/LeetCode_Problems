@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
