@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0781-rabbits-in-forest) |
