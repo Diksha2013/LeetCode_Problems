@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2544-alternating-digit-sum](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2544-alternating-digit-sum) |
 | [3024-type-of-triangle](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
