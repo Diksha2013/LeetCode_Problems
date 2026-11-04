@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0263-ugly-number) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0344-reverse-string) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
