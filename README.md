@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0610-triangle-judgement) |
 | [1251-average-selling-price](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1280-students-and-examinations) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Trie
 |  |
