@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0409-longest-palindrome) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
