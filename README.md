@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
+| [0697-degree-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0766-toeplitz-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0781-rabbits-in-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
