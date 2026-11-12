@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3024-type-of-triangle](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3046-split-the-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
