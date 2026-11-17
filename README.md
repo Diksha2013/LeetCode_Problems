@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3024-type-of-triangle](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3046-split-the-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0169-majority-element) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Diksha2013/LeetCode_Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3046-split-the-array) |
 | [3843-first-element-with-unique-frequency](https://github.com/Diksha2013/LeetCode_Problems/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Diksha2013/LeetCode_Problems/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Diksha2013/LeetCode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
